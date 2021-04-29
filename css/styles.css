@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  text-align: center;
+
+  background-image: linear-gradient(#1b1717 40%, #1b1a17, #393e46, #d8e3e7 );
+}
+
+h1{
+  font-family: 'Playball', cursive;
+  font-size: 40px;
+  text-align: left;
+  color: #51c4d3;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+h2{
+  font-family: 'Lobster Two', cursive;
+  font-size: 45px;
+  color: #c0fefc;
+  margin: 20px;
+}
+
+h3{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+hr{
+  border-width: 1px;
+}
+
+
+.btn{
+  position: fixed;
+  top:350px;
+  bottom: 100px;
+  left: 100px;
+  right: 100px;
+  font-size: 100px;
+  font-family: 'Playball', cursive;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.btn:hover{
+  color: #3edbf0;
+}
+
+.picture{
+  height: 500px;
+  width:800px;
+}
+.top{
+  padding-bottom: 35px;
+  background-image: linear-gradient(#f4f9f9, #a4ebf3, #8ab6d6);
+}
+
+.para{
+  font-family: 'Lobster Two', cursive;
+  font-size: 30px;
+}
+
+.parag{
+  font-family: 'Lobster Two', cursive;
+  font-size: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.image{
+  height: 200px;
+  width: 300px;
+}
+
+.row{
+  margin: 150px 20px;
+}
+
+.shine{
+  color: #aa2ee6;
+}
+
+.graph{
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  color: #d8e3e7;
+}
